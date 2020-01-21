@@ -1,0 +1,8 @@
+{
+  "name": "Hydrogen",
+  "description": "Liquid gas, do you believe it?",
+  "temperature": 0.2,
+  "viscosity": 0.4,
+  "effect": "freezing",
+  "color": "99ffff"
+}

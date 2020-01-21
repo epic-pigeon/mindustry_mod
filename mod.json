@@ -1,0 +1,9 @@
+{
+  "name": "My first mod",
+  "displayName": "My first mod",
+  "author": "Me obviously wtf",
+  "description": "Dont use it. You were warned",
+  "version": "1.0",
+  "minGameVersion": "102.3",
+  "dependencies": []
+}
