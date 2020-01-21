@@ -1,14 +1,14 @@
 {
   "type": "GenericCrafter",
-  "name": "HydrogenDissolver",
+  "name": "Hydrogen Dissolver",
   "description": "Dissolves water to get hydrogen",
   "liquidCapacity": 50,
   "size": 2,
   "hasPower": true,
   "hasLiquids": true,
-  "craftTime": 5,
+  "craftTime": 3,
   "consumes": {
-    "power": 0.7,
+    "power": 0.2,
     "liquid": {
       "liquid": "water",
       "amount": 1
