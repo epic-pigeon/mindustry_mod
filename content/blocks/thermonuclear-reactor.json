@@ -3,16 +3,17 @@
   "name": "Thermonuclear Reactor",
   "description": "Simulates processes occurring in the Sun, producing gigantic amounts of power. Requires giant amounts of energy to kickstart the process",
   "liquidCapacity": 50,
+  "itemDuration": 100,
   "size": 4,
   "hasPower": true,
   "hasLiquids": true,
   "craftTime": 2,
-  "powerProduction": 620,
+  "powerProduction": 460,
   "consumes": {
-    "power": 110,
+    "power": 90,
     "liquid": {
       "liquid": "cryofluid",
-      "amount": 10
+      "amount": 1.666
     }
   },
   "category": "power",
