@@ -13,7 +13,7 @@
     "power": 0.1,
     "liquid": {
       "liquid": "hydrogen",
-      "amount": 1
+      "amount": 30
     }
   },
   "category": "crafting",

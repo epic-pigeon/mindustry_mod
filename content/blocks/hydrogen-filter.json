@@ -6,7 +6,7 @@
   "size": 2,
   "hasPower": true,
   "hasLiquids": true,
-  "pumpAmount": 0.04,
+  "pumpAmount": 0.02,
   "consumes": {
     "power": 0.3
   },
