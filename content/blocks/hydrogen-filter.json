@@ -1,20 +1,20 @@
 {
   "type": "SolidPump",
-  "name": "Hydrogen Filters",
+  "name": "Hydrogen Filter",
   "description": "Filters hydrogen from air, obviously",
   "liquidCapacity": 20,
   "size": 2,
   "hasPower": true,
   "hasLiquids": true,
-  "craftTime": 12,
+  "pumpAmount": 0.04,
   "consumes": {
     "power": 0.3
   },
-  "category": "crafting",
-  "result": "water",
+  "rotateSpeed": 0,
+  "category": "production",
+  "result": "hydrogen",
   "requirements": [
-    "lead/50",
-    "copper/80",
-    "surge-alloy/5"
+    "lead/20",
+    "copper/40"
   ]
 }
