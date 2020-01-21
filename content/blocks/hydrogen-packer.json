@@ -1,0 +1,25 @@
+{
+  "type": "GenericCrafter",
+  "name": "Hydrogen Packer",
+  "description": "Packs hydrogen for use in the thermonuclear reactor",
+  "liquidCapacity": 50,
+  "itemCapacity": 10,
+  "size": 2,
+  "hasPower": true,
+  "hasLiquids": true,
+  "hasItems": true,
+  "craftTime": 5,
+  "consumes": {
+    "power": 0.1,
+    "liquid": {
+      "liquid": "hydrogen",
+      "amount": 1
+    }
+  },
+  "category": "crafting",
+  "outputItem": "hydrogen-power-unit/1",
+  "requirements": [
+    "lead/20",
+    "copper/60"
+  ]
+}

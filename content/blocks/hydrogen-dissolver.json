@@ -6,7 +6,7 @@
   "size": 2,
   "hasPower": true,
   "hasLiquids": true,
-  "craftTime": 3,
+  "craftTime": 2,
   "consumes": {
     "power": 0.2,
     "liquid": {

@@ -1,0 +1,25 @@
+{
+  "type": "ImpactReactor",
+  "name": "Thermonuclear Reactor",
+  "description": "Simulates processes occurring in the Sun, producing gigantic amounts of power. Requires giant amounts of energy to kickstart the process",
+  "liquidCapacity": 50,
+  "size": 4,
+  "hasPower": true,
+  "hasLiquids": true,
+  "craftTime": 2,
+  "powerProduction": 620,
+  "consumes": {
+    "power": 110,
+    "liquid": {
+      "liquid": "cryofluid",
+      "amount": 10
+    }
+  },
+  "category": "power",
+  "requirements": [
+    "lead/1000",
+    "copper/1500",
+    "thorium/700",
+    "surge-alloy/500"
+  ]
+}

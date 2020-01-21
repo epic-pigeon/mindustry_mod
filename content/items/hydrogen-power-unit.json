@@ -1,0 +1,7 @@
+{
+  "name": "Hydrogen Power Unit",
+  "type": "resource",
+  "description": "Unit used to power the thermonuclear reactor",
+  "explosiveness": 2,
+  "color": "77dddd"
+}
